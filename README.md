@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://teams.microsoft.com/l/message/48:notes/1756378669341?context=%7b%22contexttype%22%3a%22chat%22%2c%22oid%22%3a%228%3aorgid%3a71f2a4e8-da52-434c-875d-55c61d7fadab%22%7d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://teams.microsoft.com/l/message/48:notes/1756378669341?context=%7b%22contexttype%22%3a%22chat%22%2c%22oid%22%3a%228%3aorgid%3a71f2a4e8-da52-434c-875d-55c61d7fadab%22%7d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sagar-kamboj1322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sagar-kamboj1322" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
