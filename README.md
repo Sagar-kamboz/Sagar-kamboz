@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-kamboz&show_icons=true&locale=en" alt="sagar-kamboz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-kamboz&" alt="sagar-kamboz" /></p>
